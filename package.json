@@ -5,6 +5,7 @@
   "description": "A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track.",
   "icon": "icon.png",
   "author": "cojmeister",
+  "version": "0.2.0",
   "categories": [
     "Productivity",
     "Applications"
