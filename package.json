@@ -1,8 +1,8 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "package-tracker",
-  "title": "Parcel",
-  "description": "This extension allows you to track your packages using PKGE. An API Key from their website is needed - https://business.pkge.net/",
+  "title": "Parcel Tracker - 17track",
+  "description": "A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track.",
   "icon": "icon.png",
   "author": "cojmeister",
   "categories": [
@@ -14,7 +14,7 @@
     {
       "name": "trackParcel",
       "title": "Track Parcel",
-      "subtitle": "Track a given package",
+      "subtitle": "17track",
       "description": "Returns a package's last location - event",
       "mode": "view",
       "arguments": [
